@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title></title>
+	<meta name="description" content="HRD system test Online"/>
 	<style type="text/css">
 		body{
 			margin:0;
